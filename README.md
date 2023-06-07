@@ -8,13 +8,13 @@
 ## ゲーム一覧
 ||ゲーム名|説明|製作者|
 :----:|----|----|----
-|<img src="img/101.png" height="120px"></img>|**スペースインベーダー**|インベーダーゲームのマイクラ版|らすく|
-|<img src="img/102.png" height="120px"></img>|**パックマン**|パックマンを再現！|らすく|
-|<img src="img/201.png" height="120px"></img>|**リバーシ**|リバーシを再現！|Chen|
+|<img src="img/101.png" height="120px"></img>|**スペースインベーダー**|インベーダーゲームをマイクラで再現！侵略者を撃ち落とせ！|らすく|
+|<img src="img/102.png" height="120px"></img>|**パックマン**|アーケードゲームのパックマンを完全再現！ゴーストから逃げ切ろう！|らすく|
+|<img src="img/201.png" height="120px"></img>|**リバーシ**|リバーシみたいなボードゲームをマイクラで作成！いろんな石で遊べるぞ！|Chen|
 |<img src="img/401.png" height="120px"></img>|**タラタラしてんじゃね～よ！**||水龍|
-|<img src="img/502.png" height="120px"></img>|**クレー射撃**||Piano58|
-|<img src="img/602.png" height="120px"></img>|**アニマル塔戦闘**||でるた|
-|<img src="img/801.png" height="120px"></img>|**Minesheeper**||くま|
+|<img src="img/502.png" height="120px"></img>|**クレー射撃**|ショットガンをぶっぱなす！クレー射撃をマイクラで再現！|Piano58|
+|<img src="img/602.png" height="120px"></img>|**アニマル塔戦闘**|動物をみんなでぶつけ合うゲーム！いろんなマイクラの動物が登場！|でるた|
+|<img src="img/801.png" height="120px"></img>|**Minesheeper**|マインスイーパーをマイクラで再現！みんなでクリアを目指そう！|くま|
 
 ## 製作者一覧
 - らすく ([@Rusk_Eocssar](https://twitter.com/Rusk_Eocssar))
