@@ -25,4 +25,4 @@
 - でるた
 - くま ([@Kuma_TachiRen](https://twitter.com/Kuma_TachiRen))
 - Air ([@Airsilky](https://twitter.com/Airsilky))
-- ハル ([@Rusk_Eocssar](https://twitter.com/Rusk_Eocssar))
+- ハル ([@tatuharuLBP](https://twitter.com/tatuharuLBP))
