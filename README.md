@@ -8,13 +8,13 @@
 ## ゲーム一覧
 ||ゲーム名|説明|製作者|
 :----:|----|----|----
-|<img src="img/101.png" height="100px"></img>|スペースインベーダー|インベーダーゲーム|らすく|
-|<img src="img/102.png" height="100px"></img>|パックマン||らすく|
-|<img src="img/201.png" height="100px"></img>|リバーシ||Chen|
-|<img src="img/401.png" height="100px"></img>|タラタラしてんじゃね～よ！||水龍|
-|<img src="img/502.png" height="100px"></img>|クレー射撃||Piano58|
-|<img src="img/602.png" height="100px"></img>|アニマル塔戦闘||でるた|
-|<img src="img/801.png" height="100px"></img>|Minesheeper||くま|
+|<img src="img/101.png" height="120px"></img>|スペースインベーダー|インベーダーゲーム|らすく|
+|<img src="img/102.png" height="120px"></img>|パックマン||らすく|
+|<img src="img/201.png" height="120px"></img>|リバーシ||Chen|
+|<img src="img/401.png" height="120px"></img>|タラタラしてんじゃね～よ！||水龍|
+|<img src="img/502.png" height="120px"></img>|クレー射撃||Piano58|
+|<img src="img/602.png" height="120px"></img>|アニマル塔戦闘||でるた|
+|<img src="img/801.png" height="120px"></img>|Minesheeper||くま|
 
 ## 製作者一覧
 - らすく ([@Rusk_Eocssar](https://twitter.com/Rusk_Eocssar))
